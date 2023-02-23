@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ignat</h1>
 <h3 align="center">I make interesting programs for fun!</h3>
+<div align='center'>
 <img align="right" alt="Coding" width="700" src="https://informationsecuritybuzz.com/wp-content/uploads/hacker-activity.png">
+</div>
 
 
 - ⚡ Fun fact **I'm interesting**
